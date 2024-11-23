@@ -2,7 +2,7 @@ body{
     background-color: blueviolet;
     color: beige;
     section {
-        background: rgb(91, 49, 131);
+        background: rgb(255, 0, 255);
         padding-bottom: 80px;
         padding-top: 80px;
         display: flex;
