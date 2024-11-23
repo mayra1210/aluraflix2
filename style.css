@@ -1,22 +1,4 @@
-body{
-    background-color: blueviolet;
-    color: beige;
-    section {
-        background: rgb(255, 0, 255);
-        padding-bottom: 80px;
-        padding-top: 80px;
-        display: flex;
-        justify-content: center;
-        }
-}
-header {
-    padding-bottom: 3%;
-    padding-top: 3%;
-}
-
-.Classe_texto {
-    margin-right: 5%;  
-}
-.vídeo{
-    margin-right: 5%;  
+body {
+    color: rgb(221, 8, 8);
+    background: black;
 }
